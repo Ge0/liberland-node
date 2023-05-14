@@ -1,10 +1,10 @@
 {
   "name": "liberland-node.avado.dappnode.eth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Help securing the Free Republic of Liberland blockchain and earn LLD.",
   "autoupdate": true,
   "type": "service",
-  "avatar": "/ipfs/QmYRmFCtdXvqq3drc6kBXxeWiiMatTfKVpVrmLX883cQbR",
+  "avatar": "/ipfs/QmcSsj2ysjFvLZX1oPQ8hyP5gCicpxgFvZPaAFaik6AaBQ",
   "author": "Geoffrey ROYER",
   "image": {
     "volumes": [
