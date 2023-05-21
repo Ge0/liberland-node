@@ -1,5 +1,3 @@
-FROM busybox
+FROM liberland/blockchain-node:v8.1.0
 
-WORKDIR /usr/src/app
-
-ENTRYPOINT echo "happy buidl $USERNAME!" && sleep 9999
+CMD ["--chain", "/specs/mainnet.raw.json", "--validator"]
